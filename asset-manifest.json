@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/buttons-accelerator/static/css/main.08928197.chunk.css",
+    "main.js": "/buttons-accelerator/static/js/main.af187e3f.chunk.js",
+    "main.js.map": "/buttons-accelerator/static/js/main.af187e3f.chunk.js.map",
+    "runtime-main.js": "/buttons-accelerator/static/js/runtime-main.5b4f5be2.js",
+    "runtime-main.js.map": "/buttons-accelerator/static/js/runtime-main.5b4f5be2.js.map",
+    "static/js/2.502286c8.chunk.js": "/buttons-accelerator/static/js/2.502286c8.chunk.js",
+    "static/js/2.502286c8.chunk.js.map": "/buttons-accelerator/static/js/2.502286c8.chunk.js.map",
+    "index.html": "/buttons-accelerator/index.html",
+    "static/css/main.08928197.chunk.css.map": "/buttons-accelerator/static/css/main.08928197.chunk.css.map",
+    "static/js/2.502286c8.chunk.js.LICENSE.txt": "/buttons-accelerator/static/js/2.502286c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b4f5be2.js",
+    "static/js/2.502286c8.chunk.js",
+    "static/css/main.08928197.chunk.css",
+    "static/js/main.af187e3f.chunk.js"
+  ]
+}
